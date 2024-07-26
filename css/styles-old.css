@@ -6,12 +6,6 @@
   color: #f4f4fd;
 }
 
-.nav-link:hover::after,
-.nav-link:focus::after,
-.nav-link.current::after {
-  opacity: 1;
-}
-
 /*?----------------HERO----------------?*/
 
 .hero {
